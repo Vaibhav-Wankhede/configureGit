@@ -1,0 +1,2 @@
+hi this is for comiting other file because im getting " src refspec master does not match any" error so commiting another 
+file and trying.
