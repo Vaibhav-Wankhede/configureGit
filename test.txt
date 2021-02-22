@@ -1,0 +1,3 @@
+hi this is for testing the connection between git and github.
+so if this file is in github repository then this means rhat git and github are successfully configured,
+and this will be in repository called as configureGgit
